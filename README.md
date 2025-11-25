@@ -6,7 +6,7 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar quem eu sou como 
 
 ## 🌟 Acesso
 
-O site está disponível online através do [GitHub Pages](https://leoricoldi.github.io/portifolio-pessoal/).
+O site está disponível online através do [GitHub Pages](https://leoricoldi.github.io/Portfolio/).
 
 - O site é responsivo, utilizando um design dark mode limpo e moderno para focar a atenção do usuário no conteúdo e nos projetos.
 
@@ -28,14 +28,12 @@ Caso deseje inspecionar ou contribuir com o código-fonte deste portfólio, siga
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/eduduf/portifolio-pessoal.git
+   git clone https://github.com/leoricoldi/Portfolio.git
 
 2. **Navegue até o diretório:**
    ```bash
-   cd portifolio-pessoal
+   cd Portfolio
 
 3. **Abra no navegador: Abra o arquivo index.html diretamente em seu navegador web (Chrome, Firefox, etc.).**
 
 ## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
